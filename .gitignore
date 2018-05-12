@@ -3,3 +3,5 @@
 !*.js
 !README.md
 !.gitignore
+!dist/
+!dist/*.*

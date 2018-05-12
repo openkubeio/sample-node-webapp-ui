@@ -1,4 +1,6 @@
 const PORT = 8080 ;
+
+//unused...not required
 const CONTEXT_PATH='dist' ;
 
 const express = require('express');
