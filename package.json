@@ -1,0 +1,22 @@
+{
+  "name": "sample-webapp-ui",
+  "version": "1.0.0",
+  "description": "1. Open `http://localhost:8080/dist/index.html` to check if you see welcome page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramode2009/node-sample-webapp-ui.git"
+  },
+  "author": "PramodePandit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramode2009/node-sample-webapp-ui/issues"
+  },
+  "homepage": "https://github.com/pramode2009/node-sample-webapp-ui#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
